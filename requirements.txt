@@ -1,0 +1,7 @@
+
+faster-whisper==1.0.3
+sounddevice==0.4.7
+numpy
+keyboard==0.13.5
+psutil==6.0.0
+PyQt6==6.7.1
